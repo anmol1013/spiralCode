@@ -1,0 +1,2 @@
+# spiralCode
+print spiral
